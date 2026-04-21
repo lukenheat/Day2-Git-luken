@@ -1,4 +1,4 @@
-rm(list=ls());                         # clear Environment tab new stuff
+rm(list=ls());                         # clear Environment tab new stuff and again
 options(show.error.locations = TRUE);  # show line numbers on error
 library(package=ggplot2);              # get the GGPlot package
 
